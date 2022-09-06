@@ -1,0 +1,5 @@
+C:\Users\nickl\source\repos\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.csproj.AssemblyReference.cache
+C:\Users\nickl\source\repos\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickl\source\repos\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\nickl\source\repos\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.AssemblyInfo.cs
+C:\Users\nickl\source\repos\MethodOverloading\obj\Debug\netcoreapp3.1\MethodOverloading.csproj.CoreCompileInputs.cache
